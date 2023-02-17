@@ -1,0 +1,192 @@
+Nombre:
+Pizza
+
+
+
+Descripción:
+La pizza es un pan plano horneado elaborado con harina de trigo, sal, agua y levadura y cubierto con salsa de tomate y otros ingredientes como queso, salame, champiñones, cebolla, jamón o aceitunas. 
+
+
+
+Ingredientes:
+
+Ingrediente1:
+Linea1: 1Kg de harina 00
+Linea2:
+
+Ingrediente2:
+Linea1: 1 cucharadita de
+Linea2: sal fina
+
+Ingrediente3:
+Linea1: 2 y 1/2 tazas de
+Linea2: agua tibia
+
+
+Ingrediente4:
+Linea1: 2 cucharadas de 
+Linea2: aceite de oliva
+
+
+Ingrediente5:
+Linea1: 30 gramos de
+Linea2: levadura fresca
+
+Ingrediente6:
+Linea1: Salsa de tomate
+Linea2: 
+
+Ingrediente6:
+Linea1: Ingredientes que
+Linea2: desee agregar
+
+
+Procedimientos:
+
+
+PasoN°1:
+Texto: 
+
+Linea1: Agregar levadura
+linea2: en un recipiente
+Audio: Agregamos la levadura fresca en un recipiente 
+
+
+PasoN°2:
+Texto: 
+
+Linea1: Mezclar el agua 
+Linea2: con la levadura.
+Audio: Mezclamos el agua con la levadura fresca. Es fundamental que sea con agua tibia.
+
+
+PasoN°3:
+Texto:
+
+Linea1: Sumar 2 cucharas
+Linea2: de aceite.
+Audio: Luego de mezclar la levadura agregarle las dos cucharadas de aceite. Mezcla bien para que se integren todos los ingredientes para la pizza.
+
+
+PasoN°4
+Texto:
+
+Linea1: Echar en un bol
+Linea2: la harina y sal.
+Audio: Antes de que la preparacion se enfríe, echar en un bol la harina  y la sal, acomódelas en forma de volcan
+
+
+PasoN°5
+Texto:
+
+Linea1: Vertir la mezcla
+Linea2: en el centro.
+Audio: Vierta la mezcla anterior en el centro del bol.
+
+
+PasoN°6
+Texto:
+
+Linea1: Amasar.
+Linea2: 
+Audio: Amasar bien hasta que notes que la masa deja de pegarse en tus manos y se pueda manejar sin problemas.
+
+
+PasoN°7
+Texto:
+
+Linea1: Darle forma
+Linea2: de tubo.
+Audio: Darle forma de tubo largo.
+
+
+PasoN°8
+Texto:
+
+Linea1: Cortar en
+Linea2: 4 partes.
+Audio: Cortar la masa en cuatro particiones.
+
+
+PasoN°9
+Texto:
+
+Linea1: Darle forma
+Linea2: de bola.
+Audio: Hacer una bola con cada parte y taparlas con un trapo limpio y seco.
+
+
+PasoN°10
+Texto:
+
+Linea1: Dejar reposar.
+Linea2:
+Audio: Dejarlas reposar hasta elevarse y duplicar su volumen.
+Duración: 00:45:00
+
+
+PasoN°11
+Texto:
+
+Linea1: Esparcir harina
+Linea2: sobre una mesa.
+Audio: Esparcir harina sobre una mesa para preparar la pizza casera.
+
+
+PasoN°12
+Texto:
+
+Linea1: Escoger una 
+Linea2: bola de masa.
+Audio: Elegir una bola de masa cortada.
+
+
+PasoN°13
+Texto:
+
+Linea1: Colocar la bola
+Linea2: en la mesa.
+Audio: Colocar la bola de masa en la mesa.
+
+
+PasoN°14
+Texto:
+
+Linea1: Estirar la masa.
+Linea2:
+Audio: Estirar la masa con tus manos desde el centro hacia los cortados dandole forma circular. 
+
+
+PasoN°15:
+Texto:
+
+Linea1: Agregar salsa.
+Linea2: 
+Audio: Agregar la salsa de tomate.
+
+
+PasoN°16
+Texto:
+
+Linea1: Agregar
+Linea2: ingredientes.
+Audio: Agregar los ingredientes que usted desee; por ejemplo jamon, queso, cebolla, etcetera.
+
+
+PasoN°17
+Texto:
+
+Linea1: Precalentar
+Linea2: el horno.
+Duración: 00:20:00
+Audio: Precalentar el horno a temperatura maxima.
+
+
+PasoN°18:
+Texto:
+
+Linea1: Introducir 
+Linea2: en el horno.
+Audio: Pasado el tiempo de precalentado hornear la pizza.
+Duración: 00:10:00
+Audio: Vigilar la pizza.

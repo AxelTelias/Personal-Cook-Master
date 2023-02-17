@@ -1,0 +1,50 @@
+Nombre:
+Nuggets de pollo.
+
+
+Descripción:
+Un nugget de pollo es un alimento compuesto parcialmente de una carne de pollo finamente picada que se recubre de rebozado o pan rallado antes de cocinarlo.
+
+
+Ingredientes:
+
+Ingrediente01:
+2 pechugas de pollo grandes (1/2 Kg. aprox.).
+
+Ingrediente02:
+175 g. de vuestro queso crema preferido (tipo Philadelphia).
+
+Ingrediente03:
+Sal (a gusto).
+
+Ingrediente04:
+2 huevos.
+
+Ingrediente05:
+4 cucharadas de harina de trigo.
+
+Ingrediente06:
+4 cucharadas de pan rallado.
+
+Ingrediente07:
+Aceite de oliva virgen extra suave para freír.
+
+
+Procedimientos:
+
+Paso01:
+Texto: Limpiar y cortar las pechugas en trozos de 2 cm. las pechugas, y luego pasarlos por una picadora hasta formar una pasta.
+Audio: Paso 1. Limpiamos las pechugas de posibles restos de grasa que puedan tener y las cortamos en trozos de unos 2 centímetros. Pasamos los trozos de pollo por una picadora hasta que estén totalmente deshechos y formen una pasta.
+
+Paso02:
+Texto: Mezclar el pollo con queso crema y sal y formar pequeñas porciones de la masa.
+Audio: Paso 2. Mezclamos el pollo con el queso crema y la sal, hasta que esté bien integrado. Con la mano hacemos pequeñas porciones con esta masa.
+
+Paso03:
+Texto: Rebosar los nuggets con harina, huevo y pan rallado.
+Audio: Paso 3. Empanar los nuggets pasándolos por harina, huevo y pan rallado.
+
+Paso04:
+Texto: Colocar los naggets en una sarten con acente para freir.
+Audio: Paso 4. Freir los naggets en una sarten con abundante aceite a fuego medio.
+Duración: 00:02:00
